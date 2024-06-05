@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: pink;
+}
+
+header{
+    justify-content: center;
+}
+
+nav {
+    padding: 1rem 1rem 1rem 10rem ;
+    display: flex;
+    background-color: antiquewhite;
+}
+
+ul {
+    list-style-type: none;
+    justify-content: space-around;
+    display: inline-flex;
+    gap: 10rem;
+    overflow: hidden;
+    margin-left: 40rem;
+}
+
+main {
+    padding: 5rem 30rem 5rem 30rem;
+    
+}
+
+figure {
+    margin: 2rem 0 2rem 0;
+}
