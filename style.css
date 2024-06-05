@@ -36,3 +36,8 @@ main {
 figure {
     margin: 2rem 0 2rem 0;
 }
+
+footer {
+    background-color: antiquewhite;
+    text-align: center;
+}
